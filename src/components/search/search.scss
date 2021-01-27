@@ -1,0 +1,23 @@
+.api-seach-form {
+  width: 720px;
+  margin: 0 auto 70px;
+  position: relative;
+
+  .icon {
+    position: absolute;
+    left: 20px;
+    height: 80px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    svg {
+      height: 34px;
+      width: 34px;
+      path {
+        stroke: #8e97b6;
+      }
+    }
+  }
+}
